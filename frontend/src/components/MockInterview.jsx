@@ -58,7 +58,7 @@ function MockInterview({
       setLoading(true);
 
       const response = await axios.post(
-        "http://localhost:5000/api/evaluate-answer",
+        "https://careermind-ai-backend-g4u5.onrender.com/api/evaluate-answer",
         {
           question: questions[currentQuestion],
           answer,

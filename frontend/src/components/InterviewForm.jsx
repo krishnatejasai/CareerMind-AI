@@ -30,7 +30,7 @@ function InterviewForm() {
       formData.append("companyMode", companyMode);
 
       const response = await axios.post(
-        "http://localhost:5000/api/generate-questions",
+        "https://careermind-ai-backend-g4u5.onrender.com/api/generate-questions",
         formData
       );
 
