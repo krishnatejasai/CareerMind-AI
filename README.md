@@ -45,6 +45,20 @@ CareerMind-AI
 │   └── package.json
 ```
 
+## Screenshots
+
+### Home Page
+
+![Home Page](frontend/public/home.png)
+
+### Mock Interview
+
+![Mock Interview](frontend/public/mock-interview.png)
+
+### Readiness Report
+
+![Readiness Report](frontend/public/report.png)
+
 ## Installation
 
 ### Clone Repository
